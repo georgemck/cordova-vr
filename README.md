@@ -1,7 +1,6 @@
 # cordova-vr
 
 
-
 Sample Android App based on CampingIn360 | Perspectives on Camp
 https://samsungvr.com/view/vgDLvcVTJVE
 http://3dvu.co/g360/CampingIn360.apk
